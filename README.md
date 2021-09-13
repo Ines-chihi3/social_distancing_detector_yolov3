@@ -20,7 +20,13 @@ in this project we detect where each person is in real-time, return a bounding b
 ![image](https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/pipeline.PNG)
 
 ## results :
-![vd](https://github.com/Ines-chihi3/inertia_wheel_pendulum_labVIEW_ARDUINO/blob/master/test.mp4)
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/test_video/pedestrians_output.avi" type="video/avi">
+  </video>
+</figure>
+<!-- blank line -->
 
 ## conclusion and improvement : 
 
