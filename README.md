@@ -20,7 +20,7 @@ in this project we detect where each person is in real-time, return a bounding b
 ![image](https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/pipeline.PNG)
 
 ## results :
-https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/df78803de2747e6fda8fdbaacb85d3ebc140442a/test_video/pedestrians_output.avi
+https://user-images.githubusercontent.com/83761798/14116b1bf941cc81dd1b229561342db51685092e.avi
 ## conclusion and improvement : 
 
 this project is only a proof of concept and was not made to be use to monitor social distancing in public or private areas because of ethical and privacy issues.
