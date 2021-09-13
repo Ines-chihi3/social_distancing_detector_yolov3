@@ -17,11 +17,11 @@ in this project we detect where each person is in real-time, return a bounding b
 
 ## project pipeline discription :
 
-image 
+![image](https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/pipeline.PNG)
 
 ## results :
 
-video
+![video](https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/test_video/pedestrians_output.avi)
 
 ## conclusion and improvement : 
 
