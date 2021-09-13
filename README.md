@@ -20,8 +20,7 @@ in this project we detect where each person is in real-time, return a bounding b
 ![image](https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/pipeline.PNG)
 
 ## results :
-
-![video](https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/test_video/pedestrians_output.avi)
+<video src='https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/test_video/pedestrians_output.avi' width=180/>
 
 ## conclusion and improvement : 
 
