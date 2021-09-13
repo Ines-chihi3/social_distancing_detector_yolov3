@@ -22,7 +22,7 @@ in this project we detect where each person is in real-time, return a bounding b
 ## results :
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/13DGDn_o9sQdZRaofyLMm7kJRFNCxmZFZ/view" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/13DGDn_o9sQdZRaofyLMm7kJRFNCxmZFZ/view"> </iframe>
 </figure>
 <!-- blank line -->
 ## conclusion and improvement : 
