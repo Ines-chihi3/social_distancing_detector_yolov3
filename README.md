@@ -22,12 +22,9 @@ in this project we detect where each person is in real-time, return a bounding b
 ## results :
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/Ines-chihi3/social_distancing_detector_yolov3/blob/master/test_video/pedestrians_output.avi" type="video/avi">
-  </video>
+  <iframe src="https://drive.google.com/file/d/13DGDn_o9sQdZRaofyLMm7kJRFNCxmZFZ/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
-
 ## conclusion and improvement : 
 
 this project is only a proof of concept and was not made to be use to monitor social distancing in public or private areas because of ethical and privacy issues.
